@@ -1,2 +1,1 @@
-# 5M_Phone_Version
-version-update
+{"version":"0.6.0","news":"Software Update, About Phone & water damage","whatsNew":["Software Update checks GitHub for real version posts","About Phone shows name, serial, storage and more","Water damage is separate from screen cracks","Settings cleaned up — Software Update is its own row"],"images":[]}
